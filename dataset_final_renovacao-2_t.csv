@@ -1,0 +1,740 @@
+﻿matricula,verba,consignatario,valor_da_parcela,prazo_total,prazo_restante,natureza,margem_inicial,margem_atual,margem_disponivel,qtde_renegociados,percentual_renegociacao
+106778,424,banco bradesco,1019.98,84,52,novo contrato,1282.12,262.14,20.45,0,0.0
+109361,424,banco bradesco,1375.48,44,10,novo contrato,,,,0,0.0
+11211,427,caixa econômica federal,333.99,144,131,novo contrato,919.19,85.2,9.27,0,0.0
+11211,427,caixa econômica federal,500.0,144,112,novo contrato,919.19,85.2,9.27,0,0.0
+11221,424,banco bradesco,353.84,120,108,renegociação,901.81,-69.24,0.0,12,2.3333333333333335
+11221,427,caixa econômica federal,73.0,144,140,novo contrato,901.81,-69.24,0.0,12,2.3333333333333335
+11221,427,caixa econômica federal,194.29,144,110,novo contrato,901.81,-69.24,0.0,12,2.3333333333333335
+11221,427,caixa econômica federal,349.92,144,110,novo contrato,901.81,-69.24,0.0,12,2.3333333333333335
+11241,424,banco bradesco,880.09,120,104,renegociação,905.29,25.2,2.78,2,1.5
+11413,424,banco bradesco,1000.8,72,63,renegociação,1083.61,82.81,7.64,1,1.0
+117112,424,banco bradesco,384.18,43,21,novo contrato,,,,0,0.0
+11791,424,banco bradesco,596.68,24,24,novo contrato,2030.84,1434.16,70.62,0,0.0
+11801,424,banco bradesco,303.14,120,120,renegociação,2067.34,4.98,0.24,16,1.25
+11801,424,banco bradesco,1759.22,120,119,renegociação,2067.34,4.98,0.24,16,1.25
+11811,424,banco bradesco,668.26,120,117,renegociação,2067.34,152.66,7.38,16,1.375
+11811,424,banco bradesco,1246.42,120,108,renegociação,2067.34,152.66,7.38,16,1.375
+11821,404,banco do brasil,116.46,72,72,novo contrato,2085.59,1.0,0.05,4,2.0
+11821,404,banco do brasil,269.0,72,71,novo contrato,2085.59,1.0,0.05,4,2.0
+11821,424,banco bradesco,181.4,96,59,novo contrato,2085.59,1.0,0.05,4,2.0
+11821,424,banco bradesco,1517.73,120,86,renegociação,2085.59,1.0,0.05,4,2.0
+11831,424,banco bradesco,1630.35,120,93,renegociação,1896.8,266.45,14.05,1,2.0
+11851,424,banco bradesco,476.01,60,58,renegociação,1564.08,174.14,11.13,2,3.0
+11851,424,banco bradesco,913.93,96,31,novo contrato,1564.08,174.14,11.13,2,3.0
+12732,424,banco bradesco,305.25,44,25,novo contrato,,,,0,0.0
+139514,424,banco bradesco,45.0,60,44,novo contrato,571.05,56.34,9.87,0,0.0
+139514,424,banco bradesco,469.71,96,71,novo contrato,571.05,56.34,9.87,0,0.0
+14853,424,banco bradesco,38.09,120,108,novo contrato,1244.61,40.97,3.29,3,1.0
+14853,424,banco bradesco,51.37,120,112,novo contrato,1244.61,40.97,3.29,3,1.0
+14853,424,banco bradesco,1114.18,120,102,renegociação,1244.61,40.97,3.29,3,1.0
+15151,424,banco bradesco,364.34,120,115,renegociação,0.0,-364.34,0.0,1,2.0
+1541,424,banco bradesco,32.97,120,109,novo contrato,2730.32,248.26,9.09,4,1.5
+1541,424,banco bradesco,2449.09,120,110,renegociação,2730.32,248.26,9.09,4,1.5
+155551,424,banco bradesco,143.0,35,19,novo contrato,,,,0,0.0
+1561,404,banco do brasil,1080.24,60,22,novo contrato,,,,0,0.0
+1581,427,caixa econômica federal,758.03,77,56,novo contrato,,,,3,2.3333333333333335
+158571,424,banco bradesco,51.48,43,25,novo contrato,,,,0,0.0
+158571,424,banco bradesco,304.63,45,25,novo contrato,,,,0,0.0
+16052,424,banco bradesco,289.67,66,49,novo contrato,,,,0,0.0
+1641,424,banco bradesco,1017.03,36,7,renegociação,2494.82,1477.79,59.23,1,2.0
+167802,424,banco bradesco,369.59,48,39,novo contrato,,,,0,0.0
+1701,404,banco do brasil,134.65,72,47,novo contrato,,,,0,0.0
+1701,404,banco do brasil,405.49,60,19,novo contrato,,,,0,0.0
+17664,424,banco bradesco,150.0,44,23,novo contrato,,,,0,0.0
+17664,424,banco bradesco,206.11,40,24,novo contrato,,,,0,0.0
+1771,404,banco do brasil,214.06,72,71,novo contrato,555.97,0.35,0.06,0,0.0
+1771,404,banco do brasil,341.56,72,18,novo contrato,555.97,0.35,0.06,0,0.0
+177441,424,banco bradesco,998.65,120,115,renegociação,1068.49,69.84,6.54,2,1.5
+177521,424,banco bradesco,70.04,120,119,novo contrato,,,,0,0.0
+177521,424,banco bradesco,294.47,120,118,novo contrato,,,,0,0.0
+177521,424,banco bradesco,559.86,96,81,novo contrato,,,,0,0.0
+177601,424,banco bradesco,195.0,120,120,novo contrato,,,,0,0.0
+177601,424,banco bradesco,309.81,120,118,novo contrato,,,,0,0.0
+177601,424,banco bradesco,356.42,120,112,novo contrato,,,,0,0.0
+178171,424,banco bradesco,1069.13,48,31,novo contrato,1304.7,235.57,18.06,0,0.0
+178411,424,banco bradesco,568.06,60,59,novo contrato,1295.24,513.52,39.65,0,0.0
+178411,427,caixa econômica federal,213.66,24,16,novo contrato,1295.24,513.52,39.65,0,0.0
+180741,424,banco bradesco,636.3,12,8,novo contrato,1282.12,645.82,50.37,0,0.0
+181121,424,banco bradesco,394.27,120,101,novo contrato,,,,0,0.0
+181201,424,banco bradesco,785.15,120,111,renegociação,782.0,-3.15,0.0,2,1.0
+181391,424,banco bradesco,130.5,120,112,novo contrato,895.12,-446.37,0.0,15,3.3333333333333335
+181391,424,banco bradesco,323.21,120,115,novo contrato,895.12,-446.37,0.0,15,3.3333333333333335
+181391,424,banco bradesco,502.64,118,109,renegociação,895.12,-446.37,0.0,15,3.3333333333333335
+181391,427,caixa econômica federal,98.89,144,110,novo contrato,895.12,-446.37,0.0,15,3.3333333333333335
+181391,427,caixa econômica federal,286.25,144,109,novo contrato,895.12,-446.37,0.0,15,3.3333333333333335
+181471,427,caixa econômica federal,115.71,144,131,renegociação,582.24,-252.5,0.0,6,3.0
+181471,427,caixa econômica federal,139.08,111,98,novo contrato,582.24,-252.5,0.0,6,3.0
+181471,427,caixa econômica federal,579.95,144,131,renegociação,582.24,-252.5,0.0,6,3.0
+181631,424,banco bradesco,33.27,120,119,novo contrato,830.37,-96.58,0.0,18,1.8333333333333333
+181631,424,banco bradesco,69.96,120,112,novo contrato,830.37,-96.58,0.0,18,1.8333333333333333
+181631,424,banco bradesco,823.72,120,110,renegociação,830.37,-96.58,0.0,18,1.8333333333333333
+181711,424,banco bradesco,41.83,120,117,novo contrato,,,,2,2.0
+181711,424,banco bradesco,723.95,120,101,renegociação,,,,2,2.0
+182101,424,banco bradesco,180.47,120,115,novo contrato,1230.44,43.24,3.51,0,0.0
+182101,424,banco bradesco,1006.73,120,95,novo contrato,1230.44,43.24,3.51,0,0.0
+184221,424,banco bradesco,128.86,48,13,novo contrato,0.0,-128.86,0.0,0,0.0
+1871,424,banco bradesco,34.88,120,114,novo contrato,711.15,1.01,0.14,21,2.3333333333333335
+1871,424,banco bradesco,39.43,120,119,novo contrato,711.15,1.01,0.14,21,2.3333333333333335
+1871,424,banco bradesco,40.95,120,109,novo contrato,711.15,1.01,0.14,21,2.3333333333333335
+1871,427,caixa econômica federal,33.55,144,136,renegociação,711.15,1.01,0.14,21,2.3333333333333335
+1871,427,caixa econômica federal,48.6,144,136,renegociação,711.15,1.01,0.14,21,2.3333333333333335
+1871,427,caixa econômica federal,105.74,144,136,renegociação,711.15,1.01,0.14,21,2.3333333333333335
+1871,427,caixa econômica federal,406.99,144,109,novo contrato,711.15,1.01,0.14,21,2.3333333333333335
+18763,424,banco bradesco,300.0,44,21,novo contrato,,,,0,0.0
+188721,424,banco bradesco,89.89,120,107,novo contrato,,,,0,0.0
+188721,424,banco bradesco,1106.6,120,103,novo contrato,,,,0,0.0
+189021,424,banco bradesco,89.77,120,102,novo contrato,844.51,68.76,8.14,0,0.0
+189021,424,banco bradesco,206.1,120,91,novo contrato,844.51,68.76,8.14,0,0.0
+189021,424,banco bradesco,479.88,96,59,novo contrato,844.51,68.76,8.14,0,0.0
+192911,424,banco bradesco,421.02,120,103,novo contrato,1267.69,134.67,10.62,2,1.0
+192911,424,banco bradesco,712.0,69,35,renegociação,1267.69,134.67,10.62,2,1.0
+1941,404,banco do brasil,1732.99,72,69,novo contrato,2513.06,247.42,9.85,2,5.0
+1941,424,banco bradesco,532.65,120,108,renegociação,2513.06,247.42,9.85,2,5.0
+194371,424,banco bradesco,349.96,96,81,novo contrato,,,,0,0.0
+194611,424,banco bradesco,198.21,120,112,novo contrato,1277.64,43.47,3.4,0,0.0
+194611,424,banco bradesco,1035.96,120,101,novo contrato,1277.64,43.47,3.4,0,0.0
+194701,424,banco bradesco,1127.97,120,109,novo contrato,1257.73,129.76,10.32,0,0.0
+194881,424,banco bradesco,159.39,5,5,novo contrato,1282.12,181.52,14.16,0,0.0
+194881,424,banco bradesco,226.3,36,29,novo contrato,1282.12,181.52,14.16,0,0.0
+194881,424,banco bradesco,355.08,36,26,novo contrato,1282.12,181.52,14.16,0,0.0
+194881,424,banco bradesco,359.83,36,24,novo contrato,1282.12,181.52,14.16,0,0.0
+194961,424,banco bradesco,460.81,50,31,novo contrato,1068.49,607.68,56.87,0,0.0
+1951,404,banco do brasil,287.38,72,36,novo contrato,2393.38,818.62,34.2,0,0.0
+1951,404,banco do brasil,1287.38,48,46,novo contrato,2393.38,818.62,34.2,0,0.0
+195181,424,banco bradesco,71.31,12,11,novo contrato,1075.57,225.46,20.96,16,1.75
+195181,424,banco bradesco,116.77,24,18,novo contrato,1075.57,225.46,20.96,16,1.75
+195181,424,banco bradesco,197.17,120,113,novo contrato,1075.57,225.46,20.96,16,1.75
+195181,424,banco bradesco,464.86,120,109,renegociação,1075.57,225.46,20.96,16,1.75
+196071,424,banco bradesco,23.61,72,64,novo contrato,1305.2,-5.49,0.0,30,1.0
+196071,424,banco bradesco,49.8,96,95,novo contrato,1305.2,-5.49,0.0,30,1.0
+196071,424,banco bradesco,72.87,96,86,novo contrato,1305.2,-5.49,0.0,30,1.0
+196071,424,banco bradesco,177.71,95,87,renegociação,1305.2,-5.49,0.0,30,1.0
+196071,424,banco bradesco,324.53,96,87,renegociação,1305.2,-5.49,0.0,30,1.0
+196071,427,caixa econômica federal,662.17,120,85,novo contrato,1305.2,-5.49,0.0,30,1.0
+196311,424,banco bradesco,979.29,120,100,renegociação,1305.2,325.91,24.97,2,1.0
+196901,424,banco bradesco,1279.98,120,119,renegociação,1319.63,39.65,3.0,2,1.0
+1971,404,banco do brasil,537.62,72,31,novo contrato,1137.52,599.9,52.74,0,0.0
+197121,427,caixa econômica federal,694.52,60,27,novo contrato,1277.64,583.12,45.64,0,0.0
+197551,424,banco bradesco,185.88,14,14,novo contrato,1282.12,8.67,0.68,0,0.0
+197551,424,banco bradesco,491.59,12,12,novo contrato,1282.12,8.67,0.68,0,0.0
+197551,424,banco bradesco,595.98,12,7,novo contrato,1282.12,8.67,0.68,0,0.0
+19801,424,banco bradesco,1383.59,96,66,novo contrato,,,,0,0.0
+1981,424,banco bradesco,128.62,36,22,novo contrato,,,,0,0.0
+198601,427,caixa econômica federal,1240.99,144,133,renegociação,1295.24,54.25,4.19,1,1.0
+198951,424,banco bradesco,344.88,120,112,novo contrato,1304.7,86.5,6.63,0,0.0
+198951,424,banco bradesco,873.32,72,51,novo contrato,1304.7,86.5,6.63,0,0.0
+199921,424,banco bradesco,933.89,60,34,renegociação,1305.2,371.31,28.45,2,1.0
+2001,424,banco bradesco,193.08,120,111,renegociação,571.15,48.61,8.51,6,2.0
+2001,424,banco bradesco,329.46,120,111,renegociação,571.15,48.61,8.51,6,2.0
+200281,424,banco bradesco,198.22,120,114,renegociação,1244.61,44.56,3.58,10,1.0
+200281,424,banco bradesco,1001.83,120,111,renegociação,1244.61,44.56,3.58,10,1.0
+200441,404,banco do brasil,277.99,72,49,novo contrato,,,,0,0.0
+200521,424,banco bradesco,1250.0,120,114,renegociação,1334.63,84.63,6.34,1,1.0
+200601,424,banco bradesco,1197.72,72,64,renegociação,1244.61,46.89,3.77,1,1.0
+201091,404,banco do brasil,407.43,31,31,novo contrato,1282.12,874.69,68.22,0,0.0
+20111,404,banco do brasil,475.6,39,35,novo contrato,844.29,368.69,43.67,0,0.0
+201411,424,banco bradesco,1148.24,120,105,novo contrato,1295.24,147.0,11.35,0,0.0
+201681,424,banco bradesco,1294.85,106,106,renegociação,1295.24,0.39,0.03,10,1.2
+202221,424,banco bradesco,267.62,120,106,novo contrato,1282.12,230.75,18.0,3,2.0
+202221,424,banco bradesco,271.91,120,93,novo contrato,1282.12,230.75,18.0,3,2.0
+202221,424,banco bradesco,511.84,117,117,renegociação,1282.12,230.75,18.0,3,2.0
+202491,424,banco bradesco,224.28,120,112,renegociação,1244.61,40.13,3.22,12,1.0
+202491,427,caixa econômica federal,100.0,120,113,novo contrato,1244.61,40.13,3.22,12,1.0
+202491,427,caixa econômica federal,880.2,130,122,renegociação,1244.61,40.13,3.22,12,1.0
+202571,424,banco bradesco,532.48,70,62,novo contrato,1304.7,772.22,59.19,0,0.0
+203111,424,banco bradesco,21.58,120,118,novo contrato,1282.12,0.23,0.02,28,1.0
+203111,424,banco bradesco,40.9,120,120,novo contrato,1282.12,0.23,0.02,28,1.0
+203111,424,banco bradesco,552.79,120,117,renegociação,1282.12,0.23,0.02,28,1.0
+203111,427,caixa econômica federal,666.62,144,141,renegociação,1282.12,0.23,0.02,28,1.0
+203201,404,banco do brasil,1076.82,72,72,novo contrato,1362.78,285.96,20.98,1,3.0
+203461,404,banco do brasil,661.86,36,36,novo contrato,1282.12,620.26,48.38,0,0.0
+203541,424,banco bradesco,371.23,48,40,novo contrato,1295.24,924.01,71.34,0,0.0
+203971,424,banco bradesco,78.43,12,5,novo contrato,1175.11,51.1,4.35,6,1.0
+203971,424,banco bradesco,494.88,72,63,renegociação,1175.11,51.1,4.35,6,1.0
+203971,424,banco bradesco,550.7,48,15,novo contrato,1175.11,51.1,4.35,6,1.0
+205751,424,banco bradesco,1150.0,60,50,novo contrato,1244.61,94.61,7.6,0,0.0
+205831,424,banco bradesco,345.23,120,106,renegociação,1214.07,127.01,10.46,12,1.0
+205831,424,banco bradesco,741.83,120,106,renegociação,1214.07,127.01,10.46,12,1.0
+206481,424,banco bradesco,1052.47,72,51,novo contrato,1282.12,229.65,17.91,0,0.0
+206641,424,banco bradesco,703.01,60,32,novo contrato,1244.61,541.6,43.52,0,0.0
+2081,424,banco bradesco,35.43,120,107,renegociação,571.15,0.09,0.02,12,2.0
+2081,424,banco bradesco,40.02,120,119,novo contrato,571.15,0.09,0.02,12,2.0
+2081,424,banco bradesco,43.04,120,108,novo contrato,571.15,0.09,0.02,12,2.0
+2081,427,caixa econômica federal,452.57,144,127,novo contrato,571.15,0.09,0.02,12,2.0
+210241,424,banco bradesco,597.3,120,99,renegociação,1334.63,737.33,55.25,1,1.0
+210671,424,banco bradesco,1061.28,120,94,novo contrato,1334.63,273.35,20.48,0,0.0
+210751,424,banco bradesco,201.75,48,32,novo contrato,1295.24,283.98,21.92,4,1.5
+210751,424,banco bradesco,809.51,120,120,renegociação,1295.24,283.98,21.92,4,1.5
+211,404,banco do brasil,369.17,72,21,novo contrato,571.15,50.33,8.81,0,0.0
+211,424,banco bradesco,151.65,72,20,novo contrato,571.15,50.33,8.81,0,0.0
+2111,424,banco bradesco,87.7,120,119,novo contrato,2476.57,0.21,0.01,18,1.3333333333333333
+2111,424,banco bradesco,303.94,120,120,renegociação,2476.57,0.21,0.01,18,1.3333333333333333
+2111,424,banco bradesco,2084.72,120,120,renegociação,2476.57,0.21,0.01,18,1.3333333333333333
+211211,424,banco bradesco,1068.97,72,40,novo contrato,1305.2,236.23,18.1,0,0.0
+212021,424,banco bradesco,394.94,84,65,novo contrato,1244.61,157.7,12.67,2,1.0
+212021,424,banco bradesco,691.97,80,80,renegociação,1244.61,157.7,12.67,2,1.0
+212101,424,banco bradesco,266.92,36,24,renegociação,1244.61,343.21,27.58,4,1.0
+212101,424,banco bradesco,634.48,36,24,renegociação,1244.61,343.21,27.58,4,1.0
+213001,424,banco bradesco,45.56,120,119,novo contrato,1194.71,-4.06,0.0,12,1.0
+213001,424,banco bradesco,812.34,120,115,renegociação,1194.71,-4.06,0.0,12,1.0
+213001,427,caixa econômica federal,39.23,144,131,novo contrato,1194.71,-4.06,0.0,12,1.0
+213001,427,caixa econômica federal,51.76,144,125,novo contrato,1194.71,-4.06,0.0,12,1.0
+213001,427,caixa econômica federal,81.88,120,99,novo contrato,1194.71,-4.06,0.0,12,1.0
+213001,427,caixa econômica federal,168.0,120,95,novo contrato,1194.71,-4.06,0.0,12,1.0
+2131,404,banco do brasil,278.65,72,42,renegociação,571.15,292.5,51.21,1,2.0
+213501,424,banco bradesco,692.59,48,22,novo contrato,1257.73,565.14,44.93,0,0.0
+214071,424,banco bradesco,91.06,120,111,novo contrato,1267.69,0.7,0.06,6,1.0
+214071,424,banco bradesco,1175.93,120,120,renegociação,1267.69,0.7,0.06,6,1.0
+2141,424,banco bradesco,33.86,115,109,novo contrato,676.15,42.67,6.31,2,6.0
+2141,424,banco bradesco,599.62,120,101,renegociação,676.15,42.67,6.31,2,6.0
+2151,424,banco bradesco,460.32,48,36,renegociação,744.26,283.94,38.15,1,2.0
+2161,404,banco do brasil,506.51,72,44,novo contrato,0.0,-506.51,0.0,0,0.0
+2181,424,banco bradesco,376.86,34,27,renegociação,,,,1,1.0
+2211,424,banco bradesco,87.52,120,119,renegociação,662.53,0.71,0.11,12,1.3333333333333333
+2211,424,banco bradesco,574.3,120,112,renegociação,662.53,0.71,0.11,12,1.3333333333333333
+221871,424,banco bradesco,54.71,120,119,novo contrato,1088.59,14.82,1.36,0,0.0
+221871,424,banco bradesco,1019.06,120,111,novo contrato,1088.59,14.82,1.36,0,0.0
+222171,424,banco bradesco,25.08,120,103,novo contrato,1244.61,4.7,0.38,0,0.0
+222171,424,banco bradesco,51.77,120,110,novo contrato,1244.61,4.7,0.38,0,0.0
+222171,424,banco bradesco,93.83,120,108,novo contrato,1244.61,4.7,0.38,0,0.0
+222171,424,banco bradesco,228.17,120,103,novo contrato,1244.61,4.7,0.38,0,0.0
+222171,424,banco bradesco,841.06,120,99,novo contrato,1244.61,4.7,0.38,0,0.0
+222331,424,banco bradesco,114.3,5,5,novo contrato,1282.12,1046.27,81.6,0,0.0
+222331,424,banco bradesco,121.55,10,8,novo contrato,1282.12,1046.27,81.6,0,0.0
+222411,424,banco bradesco,177.49,120,110,novo contrato,1282.12,41.51,3.24,0,0.0
+222411,424,banco bradesco,1063.12,120,100,novo contrato,1282.12,41.51,3.24,0,0.0
+223221,424,banco bradesco,1218.47,54,52,novo contrato,1305.2,86.73,6.64,0,0.0
+223651,424,banco bradesco,1260.0,56,47,novo contrato,1305.2,45.2,3.46,0,0.0
+223731,424,banco bradesco,355.27,24,14,novo contrato,1325.1,969.83,73.19,0,0.0
+223901,424,banco bradesco,110.19,120,118,novo contrato,502.42,37.19,7.4,0,0.0
+223901,424,banco bradesco,355.04,120,106,novo contrato,502.42,37.19,7.4,0,0.0
+224381,427,caixa econômica federal,93.0,144,134,novo contrato,1305.2,54.72,4.19,0,0.0
+224381,427,caixa econômica federal,234.95,144,129,novo contrato,1305.2,54.72,4.19,0,0.0
+224381,427,caixa econômica federal,250.85,144,130,novo contrato,1305.2,54.72,4.19,0,0.0
+224381,427,caixa econômica federal,671.68,144,126,novo contrato,1305.2,54.72,4.19,0,0.0
+224891,424,banco bradesco,123.14,120,110,novo contrato,1282.12,-4.94,0.0,2,1.0
+224891,424,banco bradesco,1163.92,120,119,renegociação,1282.12,-4.94,0.0,2,1.0
+2301,424,banco bradesco,399.1,96,84,novo contrato,,,,0,0.0
+23053,404,banco do brasil,44.47,72,30,novo contrato,675.16,40.8,6.04,12,2.0
+23053,424,banco bradesco,25.06,120,107,novo contrato,675.16,40.8,6.04,12,2.0
+23053,424,banco bradesco,27.6,120,115,novo contrato,675.16,40.8,6.04,12,2.0
+23053,424,banco bradesco,32.99,120,106,novo contrato,675.16,40.8,6.04,12,2.0
+23053,424,banco bradesco,50.71,120,96,novo contrato,675.16,40.8,6.04,12,2.0
+23053,424,banco bradesco,453.53,120,111,renegociação,675.16,40.8,6.04,12,2.0
+2311,424,banco bradesco,482.38,120,102,novo contrato,555.97,73.59,13.24,0,0.0
+2321,424,banco bradesco,102.85,120,94,novo contrato,636.53,47.49,7.46,3,2.0
+2321,424,banco bradesco,132.85,120,101,novo contrato,636.53,47.49,7.46,3,2.0
+2321,424,banco bradesco,353.34,120,110,renegociação,636.53,47.49,7.46,3,2.0
+232481,427,caixa econômica federal,197.01,144,142,novo contrato,766.1,0.17,0.02,0,0.0
+232481,427,caixa econômica federal,568.92,144,138,novo contrato,766.1,0.17,0.02,0,0.0
+232641,427,caixa econômica federal,476.6,120,113,novo contrato,766.1,289.5,37.79,0,0.0
+232801,427,caixa econômica federal,743.0,144,140,novo contrato,766.1,23.1,3.02,0,0.0
+232991,424,banco bradesco,22.73,120,118,novo contrato,766.1,-104.96,0.0,0,0.0
+232991,424,banco bradesco,105.13,120,119,novo contrato,766.1,-104.96,0.0,0,0.0
+232991,427,caixa econômica federal,153.21,144,139,novo contrato,766.1,-104.96,0.0,0,0.0
+232991,427,caixa econômica federal,589.99,144,138,novo contrato,766.1,-104.96,0.0,0,0.0
+2341,424,banco bradesco,135.35,120,119,renegociação,662.53,1.25,0.19,10,1.4
+2341,424,banco bradesco,525.93,120,114,renegociação,662.53,1.25,0.19,10,1.4
+2401,424,banco bradesco,328.21,60,50,novo contrato,647.35,319.14,49.3,0,0.0
+24103,424,banco bradesco,287.56,36,1,novo contrato,2064.07,1776.51,86.07,0,0.0
+2411,424,banco bradesco,43.56,120,113,novo contrato,,,,6,1.5
+2411,424,banco bradesco,124.0,120,99,renegociação,,,,6,1.5
+2411,424,banco bradesco,363.58,120,103,renegociação,,,,6,1.5
+2421,424,banco bradesco,276.17,120,102,novo contrato,485.91,-334.58,0.0,4,2.0
+2421,424,banco bradesco,544.32,120,101,renegociação,485.91,-334.58,0.0,4,2.0
+2441,424,banco bradesco,343.5,96,49,novo contrato,0.0,-343.5,0.0,0,0.0
+2461,424,banco bradesco,34.21,120,99,novo contrato,571.15,1.75,0.31,8,2.0
+2461,424,banco bradesco,38.2,120,119,novo contrato,571.15,1.75,0.31,8,2.0
+2461,424,banco bradesco,42.18,120,108,novo contrato,571.15,1.75,0.31,8,2.0
+2461,424,banco bradesco,454.81,120,114,renegociação,571.15,1.75,0.31,8,2.0
+2471,424,banco bradesco,290.11,60,48,renegociação,662.53,372.42,56.21,2,1.5
+2501,424,banco bradesco,453.98,36,28,novo contrato,571.15,117.17,20.51,0,0.0
+2511,424,banco bradesco,310.0,120,86,renegociação,571.15,261.15,45.72,1,2.0
+25182,424,banco bradesco,64.85,96,86,novo contrato,,,,0,0.0
+25182,424,banco bradesco,143.45,96,87,novo contrato,,,,0,0.0
+25182,424,banco bradesco,345.06,96,76,novo contrato,,,,0,0.0
+2541,424,banco bradesco,221.94,96,11,novo contrato,533.12,311.18,58.37,0,0.0
+2561,424,banco bradesco,38.65,120,118,novo contrato,,,,2,2.0
+2561,424,banco bradesco,528.12,120,105,renegociação,,,,2,2.0
+2571,424,banco bradesco,333.96,120,96,novo contrato,861.94,-37.03,0.0,2,2.0
+2571,424,banco bradesco,565.01,120,86,renegociação,861.94,-37.03,0.0,2,2.0
+2581,424,banco bradesco,389.61,60,6,novo contrato,639.68,250.07,39.09,0,0.0
+2601,424,banco bradesco,474.2,120,120,renegociação,2278.67,39.03,1.71,15,1.4
+2601,424,banco bradesco,768.22,120,97,renegociação,2278.67,39.03,1.71,15,1.4
+2601,424,banco bradesco,997.22,120,110,renegociação,2278.67,39.03,1.71,15,1.4
+2611,404,banco do brasil,1900.37,72,69,novo contrato,2037.72,137.35,6.74,1,4.0
+2631,427,caixa econômica federal,185.51,90,81,novo contrato,833.98,129.24,15.5,4,3.0
+2631,427,caixa econômica federal,519.23,89,80,novo contrato,833.98,129.24,15.5,4,3.0
+2651,424,banco bradesco,1181.88,59,27,novo contrato,2260.67,1078.79,47.72,1,5.0
+2691,404,banco do brasil,1935.47,72,36,novo contrato,2136.03,200.56,9.39,0,0.0
+2711,424,banco bradesco,55.57,120,120,novo contrato,1856.47,0.08,0.0,21,4.333333333333333
+2711,424,banco bradesco,101.27,120,103,novo contrato,1856.47,0.08,0.0,21,4.333333333333333
+2711,427,caixa econômica federal,64.54,144,143,novo contrato,1856.47,0.08,0.0,21,4.333333333333333
+2711,427,caixa econômica federal,130.14,144,144,novo contrato,1856.47,0.08,0.0,21,4.333333333333333
+2711,427,caixa econômica federal,200.12,144,139,renegociação,1856.47,0.08,0.0,21,4.333333333333333
+2711,427,caixa econômica federal,304.75,144,136,renegociação,1856.47,0.08,0.0,21,4.333333333333333
+2711,427,caixa econômica federal,1000.0,144,136,renegociação,1856.47,0.08,0.0,21,4.333333333333333
+2721,424,banco bradesco,533.49,96,77,novo contrato,2154.6,477.59,22.17,0,0.0
+2721,424,banco bradesco,1143.52,96,55,novo contrato,2154.6,477.59,22.17,0,0.0
+2741,404,banco do brasil,24.16,72,12,novo contrato,0.0,-484.63,0.0,0,0.0
+2741,427,caixa econômica federal,460.47,120,97,novo contrato,0.0,-484.63,0.0,0,0.0
+2751,424,banco bradesco,44.9,96,55,novo contrato,670.2,220.6,32.92,0,0.0
+2751,424,banco bradesco,57.95,96,31,novo contrato,670.2,220.6,32.92,0,0.0
+2751,424,banco bradesco,346.75,84,48,novo contrato,670.2,220.6,32.92,0,0.0
+2811,404,banco do brasil,180.58,72,42,novo contrato,639.68,144.64,22.61,0,0.0
+2811,424,banco bradesco,314.46,60,60,novo contrato,639.68,144.64,22.61,0,0.0
+2891,424,banco bradesco,35.66,120,99,novo contrato,,,,0,0.0
+2891,424,banco bradesco,65.07,120,112,novo contrato,,,,0,0.0
+2891,424,banco bradesco,479.49,120,90,novo contrato,,,,0,0.0
+28954,424,banco bradesco,414.77,48,27,novo contrato,1200.72,246.62,20.54,2,1.0
+28954,424,banco bradesco,539.33,60,48,renegociação,1200.72,246.62,20.54,2,1.0
+29502,424,banco bradesco,67.26,48,33,novo contrato,,,,0,0.0
+29502,424,banco bradesco,78.99,96,76,novo contrato,,,,0,0.0
+29502,424,banco bradesco,237.96,41,33,novo contrato,,,,0,0.0
+29502,424,banco bradesco,243.6,48,32,novo contrato,,,,0,0.0
+3012,424,banco bradesco,608.15,60,58,renegociação,700.45,92.3,13.18,3,2.0
+3021,404,banco do brasil,298.37,48,2,novo contrato,2387.19,-610.46,0.0,0,0.0
+3021,404,banco do brasil,450.53,70,28,novo contrato,2387.19,-610.46,0.0,0,0.0
+3021,404,banco do brasil,622.32,72,18,novo contrato,2387.19,-610.46,0.0,0,0.0
+3021,404,banco do brasil,654.06,72,15,novo contrato,2387.19,-610.46,0.0,0,0.0
+3021,404,banco do brasil,972.37,72,15,novo contrato,2387.19,-610.46,0.0,0,0.0
+31151,424,banco bradesco,58.44,39,28,novo contrato,,,,0,0.0
+31151,424,banco bradesco,329.53,45,27,novo contrato,,,,0,0.0
+3231,424,banco bradesco,124.84,70,62,novo contrato,2278.67,1615.95,70.92,0,0.0
+3231,424,banco bradesco,537.88,72,62,novo contrato,2278.67,1615.95,70.92,0,0.0
+3271,424,banco bradesco,120.28,120,98,renegociação,555.97,87.86,15.8,6,2.0
+3271,424,banco bradesco,347.83,96,53,novo contrato,555.97,87.86,15.8,6,2.0
+32711,424,banco bradesco,484.47,46,26,novo contrato,,,,0,0.0
+3441,424,banco bradesco,42.43,96,47,novo contrato,,,,0,0.0
+3521,424,banco bradesco,627.7,96,47,novo contrato,,,,0,0.0
+3531,424,banco bradesco,570.08,120,119,renegociação,571.15,1.07,0.19,6,1.5
+3621,424,banco bradesco,35.56,120,110,novo contrato,,,,10,1.4
+3621,424,banco bradesco,450.51,120,111,renegociação,,,,10,1.4
+3631,424,banco bradesco,120.35,120,119,renegociação,921.15,0.85,0.09,12,1.3333333333333333
+3631,424,banco bradesco,799.95,120,113,renegociação,921.15,0.85,0.09,12,1.3333333333333333
+3641,424,banco bradesco,30.49,120,119,novo contrato,555.97,41.0,7.37,0,0.0
+3641,424,banco bradesco,45.44,120,111,novo contrato,555.97,41.0,7.37,0,0.0
+3641,424,banco bradesco,50.34,120,107,novo contrato,555.97,41.0,7.37,0,0.0
+3641,424,banco bradesco,55.98,120,101,novo contrato,555.97,41.0,7.37,0,0.0
+3641,424,banco bradesco,100.56,120,96,novo contrato,555.97,41.0,7.37,0,0.0
+3641,424,banco bradesco,232.16,118,94,novo contrato,555.97,41.0,7.37,0,0.0
+3691,424,banco bradesco,334.69,72,18,novo contrato,,,,0,0.0
+3711,424,banco bradesco,33.88,120,118,novo contrato,,,,8,1.75
+3711,424,banco bradesco,455.84,120,111,renegociação,,,,8,1.75
+3731,424,banco bradesco,184.67,48,18,novo contrato,555.97,179.06,32.21,0,0.0
+3731,424,banco bradesco,192.24,48,5,novo contrato,555.97,179.06,32.21,0,0.0
+3741,424,banco bradesco,10.41,96,94,novo contrato,,,,3,2.0
+3741,424,banco bradesco,37.5,120,120,novo contrato,,,,3,2.0
+3741,424,banco bradesco,433.48,120,112,renegociação,,,,3,2.0
+3761,424,banco bradesco,230.71,36,35,novo contrato,555.97,325.26,58.5,0,0.0
+3781,424,banco bradesco,515.94,120,116,renegociação,555.97,40.03,7.2,4,1.5
+3791,424,banco bradesco,275.16,60,26,novo contrato,555.97,280.81,50.51,0,0.0
+3801,424,banco bradesco,377.32,96,58,novo contrato,555.97,178.65,32.13,0,0.0
+3831,424,banco bradesco,50.72,120,108,novo contrato,555.97,1.09,0.2,4,1.5
+3831,424,banco bradesco,504.16,120,120,renegociação,555.97,1.09,0.2,4,1.5
+3841,424,banco bradesco,60.22,120,95,novo contrato,555.97,43.09,7.75,4,1.5
+3841,424,banco bradesco,452.66,120,115,renegociação,555.97,43.09,7.75,4,1.5
+3861,424,banco bradesco,111.02,120,94,novo contrato,571.15,103.75,18.17,2,4.0
+3861,424,banco bradesco,356.38,120,94,renegociação,571.15,103.75,18.17,2,4.0
+3871,424,banco bradesco,546.0,96,60,novo contrato,921.15,375.15,40.73,0,0.0
+3911,424,banco bradesco,554.14,120,119,renegociação,555.97,1.83,0.33,5,1.4
+4011,424,banco bradesco,35.74,96,47,novo contrato,,,,0,0.0
+4011,424,banco bradesco,119.69,96,85,novo contrato,,,,0,0.0
+4011,424,banco bradesco,306.45,96,68,novo contrato,,,,0,0.0
+4241,404,banco do brasil,465.24,72,27,novo contrato,682.35,217.11,31.82,0,0.0
+4251,424,banco bradesco,38.2,120,119,novo contrato,555.97,1.63,0.29,0,0.0
+4251,424,banco bradesco,40.28,120,108,novo contrato,555.97,1.63,0.29,0,0.0
+4251,424,banco bradesco,64.9,119,112,novo contrato,555.97,1.63,0.29,0,0.0
+4251,427,caixa econômica federal,32.97,144,120,novo contrato,555.97,1.63,0.29,0,0.0
+4251,427,caixa econômica federal,377.99,144,109,novo contrato,555.97,1.63,0.29,0,0.0
+4261,424,banco bradesco,433.89,96,47,novo contrato,746.15,312.26,41.85,0,0.0
+4271,404,banco do brasil,27.38,96,58,novo contrato,,,,0,0.0
+4271,404,banco do brasil,77.16,60,30,novo contrato,,,,0,0.0
+4271,404,banco do brasil,434.16,96,53,novo contrato,,,,0,0.0
+4291,424,banco bradesco,22.5,120,101,renegociação,0.0,-601.89,0.0,12,2.0
+4291,424,banco bradesco,49.03,120,108,novo contrato,0.0,-601.89,0.0,12,2.0
+4291,424,banco bradesco,97.53,120,101,renegociação,0.0,-601.89,0.0,12,2.0
+4291,424,banco bradesco,432.83,120,101,renegociação,0.0,-601.89,0.0,12,2.0
+4321,424,banco bradesco,49.55,120,95,novo contrato,555.97,72.93,13.12,6,2.5
+4321,424,banco bradesco,146.11,120,86,novo contrato,555.97,72.93,13.12,6,2.5
+4321,424,banco bradesco,287.38,120,99,renegociação,555.97,72.93,13.12,6,2.5
+4341,404,banco do brasil,74.5,71,35,novo contrato,548.3,13.44,2.45,0,0.0
+4341,404,banco do brasil,276.41,69,31,novo contrato,548.3,13.44,2.45,0,0.0
+4341,424,banco bradesco,183.95,96,52,novo contrato,548.3,13.44,2.45,0,0.0
+4411,424,banco bradesco,40.98,120,100,novo contrato,571.15,41.04,7.19,6,2.3333333333333335
+4411,424,banco bradesco,489.13,120,110,renegociação,571.15,41.04,7.19,6,2.3333333333333335
+4431,424,banco bradesco,126.89,120,97,novo contrato,571.15,89.63,15.69,0,0.0
+4431,424,banco bradesco,354.63,96,49,novo contrato,571.15,89.63,15.69,0,0.0
+4501,424,banco bradesco,553.29,120,87,renegociação,693.04,139.75,20.16,2,2.0
+4511,424,banco bradesco,30.47,120,119,novo contrato,693.04,0.18,0.03,0,0.0
+4511,427,caixa econômica federal,89.81,144,118,novo contrato,693.04,0.18,0.03,0,0.0
+4511,427,caixa econômica federal,572.58,144,109,novo contrato,693.04,0.18,0.03,0,0.0
+4531,404,banco do brasil,52.02,72,31,novo contrato,693.04,116.68,16.84,0,0.0
+4531,404,banco do brasil,524.34,72,27,novo contrato,693.04,116.68,16.84,0,0.0
+4601,424,banco bradesco,535.02,84,66,renegociação,618.53,83.51,13.5,1,2.0
+4611,427,caixa econômica federal,74.19,144,126,novo contrato,,,,8,2.25
+4611,427,caixa econômica federal,689.0,144,141,renegociação,,,,8,2.25
+4681,424,banco bradesco,351.67,96,81,novo contrato,767.53,415.86,54.18,0,0.0
+4721,424,banco bradesco,193.53,120,100,novo contrato,858.91,-11.69,0.0,8,1.5
+4721,424,banco bradesco,677.07,120,109,renegociação,858.91,-11.69,0.0,8,1.5
+4791,424,banco bradesco,113.38,120,102,novo contrato,591.07,100.17,16.95,2,2.0
+4791,424,banco bradesco,377.52,120,98,renegociação,591.07,100.17,16.95,2,2.0
+4831,424,banco bradesco,147.6,120,111,novo contrato,2505.94,9.24,0.37,44,1.4545454545454546
+4831,424,banco bradesco,296.79,120,120,novo contrato,2505.94,9.24,0.37,44,1.4545454545454546
+4831,424,banco bradesco,328.69,120,105,renegociação,2505.94,9.24,0.37,44,1.4545454545454546
+4831,424,banco bradesco,1723.62,120,113,renegociação,2505.94,9.24,0.37,44,1.4545454545454546
+4841,424,banco bradesco,74.57,120,119,renegociação,851.15,0.48,0.06,6,1.3333333333333333
+4841,424,banco bradesco,776.1,120,109,renegociação,851.15,0.48,0.06,6,1.3333333333333333
+4851,424,banco bradesco,546.32,48,41,novo contrato,641.15,94.83,14.79,0,0.0
+48554,424,banco bradesco,236.0,48,20,novo contrato,1273.13,302.28,23.74,0,0.0
+48554,424,banco bradesco,734.85,48,15,novo contrato,1273.13,302.28,23.74,0,0.0
+4881,404,banco do brasil,100.96,72,24,novo contrato,647.35,0.31,0.05,20,2.0
+4881,424,banco bradesco,136.75,120,108,renegociação,647.35,0.31,0.05,20,2.0
+4881,424,banco bradesco,270.18,120,120,renegociação,647.35,0.31,0.05,20,2.0
+4881,427,caixa econômica federal,139.15,120,86,renegociação,647.35,0.31,0.05,20,2.0
+4891,427,caixa econômica federal,283.5,144,142,novo contrato,2476.57,968.07,39.09,2,1.0
+4891,427,caixa econômica federal,1225.0,144,139,renegociação,2476.57,968.07,39.09,2,1.0
+4911,424,banco bradesco,542.45,96,96,renegociação,555.97,13.52,2.43,1,1.0
+4921,424,banco bradesco,2114.22,120,107,renegociação,2758.2,643.98,23.35,3,1.3333333333333333
+4941,404,banco do brasil,457.16,72,21,novo contrato,858.12,-26.11,0.0,0,0.0
+4941,424,banco bradesco,427.07,66,44,novo contrato,858.12,-26.11,0.0,0,0.0
+4981,424,banco bradesco,89.07,36,26,novo contrato,883.22,281.59,31.88,4,1.5
+4981,424,banco bradesco,512.56,120,100,renegociação,883.22,281.59,31.88,4,1.5
+5001,424,banco bradesco,176.87,120,119,renegociação,921.15,1.22,0.13,15,1.6
+5001,424,banco bradesco,293.06,120,111,renegociação,921.15,1.22,0.13,15,1.6
+5001,427,caixa econômica federal,450.0,119,85,renegociação,921.15,1.22,0.13,15,1.6
+5021,424,banco bradesco,41.8,120,120,novo contrato,2603.44,0.5,0.02,15,1.3333333333333333
+5021,424,banco bradesco,86.26,120,119,novo contrato,2603.44,0.5,0.02,15,1.3333333333333333
+5021,424,banco bradesco,116.37,120,120,novo contrato,2603.44,0.5,0.02,15,1.3333333333333333
+5021,424,banco bradesco,174.21,120,110,novo contrato,2603.44,0.5,0.02,15,1.3333333333333333
+5021,424,banco bradesco,2184.3,120,114,renegociação,2603.44,0.5,0.02,15,1.3333333333333333
+5031,424,banco bradesco,289.6,120,120,renegociação,1959.18,1.88,0.1,12,1.1666666666666667
+5031,424,banco bradesco,1667.7,120,120,renegociação,1959.18,1.88,0.1,12,1.1666666666666667
+5041,424,banco bradesco,166.34,67,55,novo contrato,2513.06,1094.85,43.57,2,1.0
+5041,424,banco bradesco,1251.87,72,55,renegociação,2513.06,1094.85,43.57,2,1.0
+5061,424,banco bradesco,491.48,48,48,renegociação,2647.38,1587.76,59.97,4,1.0
+5061,424,banco bradesco,568.14,36,30,renegociação,2647.38,1587.76,59.97,4,1.0
+5071,424,banco bradesco,286.33,48,12,novo contrato,2476.57,2190.24,88.44,0,0.0
+5081,404,banco do brasil,509.46,72,25,novo contrato,2289.63,2.26,0.1,16,1.5
+5081,424,banco bradesco,100.3,120,113,novo contrato,2289.63,2.26,0.1,16,1.5
+5081,424,banco bradesco,159.94,120,120,novo contrato,2289.63,2.26,0.1,16,1.5
+5081,424,banco bradesco,1517.67,120,119,renegociação,2289.63,2.26,0.1,16,1.5
+5091,424,banco bradesco,116.91,120,118,renegociação,2476.57,245.27,9.9,6,1.3333333333333333
+5091,424,banco bradesco,2114.39,120,112,renegociação,2476.57,245.27,9.9,6,1.3333333333333333
+5101,404,banco do brasil,711.05,72,27,novo contrato,2434.57,0.26,0.01,0,0.0
+5101,404,banco do brasil,1723.26,72,72,novo contrato,2434.57,0.26,0.01,0,0.0
+5111,424,banco bradesco,31.41,120,118,novo contrato,,,,3,8.0
+5111,424,banco bradesco,39.34,120,107,novo contrato,,,,3,8.0
+5111,424,banco bradesco,411.7,120,97,renegociação,,,,3,8.0
+5161,424,banco bradesco,80.98,96,85,novo contrato,1346.16,31.55,2.34,21,1.4285714285714286
+5161,424,banco bradesco,147.32,120,94,novo contrato,1346.16,31.55,2.34,21,1.4285714285714286
+5161,424,banco bradesco,1086.31,120,112,renegociação,1346.16,31.55,2.34,21,1.4285714285714286
+5181,424,banco bradesco,611.99,60,55,renegociação,691.63,79.64,11.51,2,1.0
+5221,424,banco bradesco,349.01,48,35,renegociação,580.73,231.72,39.9,1,2.0
+5261,404,banco do brasil,1021.32,72,32,novo contrato,2494.82,1473.5,59.06,0,0.0
+5271,404,banco do brasil,438.3,72,1,novo contrato,,,,0,0.0
+5291,424,banco bradesco,807.3,24,5,renegociação,2476.57,1669.27,67.4,1,2.0
+5331,404,banco do brasil,351.82,72,29,novo contrato,2596.38,1757.12,67.68,0,0.0
+5331,404,banco do brasil,487.44,72,26,novo contrato,2596.38,1757.12,67.68,0,0.0
+5341,424,banco bradesco,357.11,120,100,novo contrato,,,,2,4.0
+5341,424,banco bradesco,1837.07,120,100,renegociação,,,,2,4.0
+5351,404,banco do brasil,425.97,36,1,novo contrato,,,,0,0.0
+5351,404,banco do brasil,590.8,72,13,novo contrato,,,,0,0.0
+5351,424,banco bradesco,612.79,48,3,novo contrato,,,,0,0.0
+5401,424,banco bradesco,1396.14,72,67,renegociação,2630.61,1234.47,46.93,1,2.0
+5431,404,banco do brasil,143.45,72,41,novo contrato,,,,0,0.0
+5431,404,banco do brasil,342.33,72,50,novo contrato,,,,0,0.0
+5431,404,banco do brasil,1869.37,72,44,novo contrato,,,,0,0.0
+5451,424,banco bradesco,1633.28,120,114,renegociação,,,,1,2.0
+5481,424,banco bradesco,1639.32,120,117,renegociação,,,,1,4.0
+5541,427,caixa econômica federal,288.76,144,112,novo contrato,2170.85,341.97,15.75,12,3.0
+5541,427,caixa econômica federal,290.74,144,134,renegociação,2170.85,341.97,15.75,12,3.0
+5541,427,caixa econômica federal,1249.38,144,134,renegociação,2170.85,341.97,15.75,12,3.0
+5551,424,banco bradesco,353.22,44,34,novo contrato,2819.16,2465.94,87.47,0,0.0
+5561,424,banco bradesco,2238.46,70,62,renegociação,2494.82,256.36,10.28,1,2.0
+5581,424,banco bradesco,41.92,120,120,novo contrato,2476.57,0.42,0.02,16,2.25
+5581,427,caixa econômica federal,312.13,144,122,novo contrato,2476.57,0.42,0.02,16,2.25
+5581,427,caixa econômica federal,586.0,144,143,novo contrato,2476.57,0.42,0.02,16,2.25
+5581,427,caixa econômica federal,1536.1,144,136,renegociação,2476.57,0.42,0.02,16,2.25
+5591,424,banco bradesco,606.79,60,48,novo contrato,2476.57,1254.14,50.64,0,0.0
+5591,424,banco bradesco,615.64,36,8,novo contrato,2476.57,1254.14,50.64,0,0.0
+5601,424,banco bradesco,164.95,120,108,renegociação,2730.32,2.12,0.08,45,1.2222222222222223
+5601,424,banco bradesco,205.67,120,98,renegociação,2730.32,2.12,0.08,45,1.2222222222222223
+5601,424,banco bradesco,330.41,120,115,renegociação,2730.32,2.12,0.08,45,1.2222222222222223
+5601,424,banco bradesco,571.19,120,120,renegociação,2730.32,2.12,0.08,45,1.2222222222222223
+5601,424,banco bradesco,1455.98,120,92,renegociação,2730.32,2.12,0.08,45,1.2222222222222223
+5731,424,banco bradesco,257.97,96,81,novo contrato,,,,4,2.0
+5731,424,banco bradesco,1789.76,120,109,renegociação,,,,4,2.0
+5811,424,banco bradesco,73.39,94,90,novo contrato,,,,2,2.0
+5811,424,banco bradesco,2013.27,96,92,renegociação,,,,2,2.0
+5841,404,banco do brasil,70.03,72,68,novo contrato,2458.57,41.6,1.69,15,3.0
+5841,404,banco do brasil,203.85,72,72,novo contrato,2458.57,41.6,1.69,15,3.0
+5841,424,banco bradesco,2143.09,120,114,renegociação,2458.57,41.6,1.69,15,3.0
+5851,424,banco bradesco,1058.42,45,11,renegociação,2674.03,1615.61,60.42,1,1.0
+5871,424,banco bradesco,179.59,120,115,renegociação,2837.4,253.47,8.93,15,1.4
+5871,424,banco bradesco,479.23,120,100,renegociação,2837.4,253.47,8.93,15,1.4
+5871,424,banco bradesco,1925.11,120,86,renegociação,2837.4,253.47,8.93,15,1.4
+5901,424,banco bradesco,99.65,120,119,novo contrato,2464.62,-210.22,0.0,45,2.4444444444444446
+5901,427,caixa econômica federal,208.12,142,112,renegociação,2464.62,-210.22,0.0,45,2.4444444444444446
+5901,427,caixa econômica federal,389.49,120,86,renegociação,2464.62,-210.22,0.0,45,2.4444444444444446
+5901,427,caixa econômica federal,916.2,144,143,novo contrato,2464.62,-210.22,0.0,45,2.4444444444444446
+5901,427,caixa econômica federal,1061.38,144,109,renegociação,2464.62,-210.22,0.0,45,2.4444444444444446
+5911,424,banco bradesco,1469.13,120,114,novo contrato,,,,0,0.0
+5941,404,banco do brasil,355.82,72,27,novo contrato,,,,0,0.0
+5941,404,banco do brasil,429.01,72,18,novo contrato,,,,0,0.0
+59595,404,banco do brasil,777.29,58,24,novo contrato,1295.24,517.95,39.99,0,0.0
+5961,424,banco bradesco,495.47,12,1,novo contrato,1698.42,1202.95,70.83,0,0.0
+6041,404,banco do brasil,91.2,72,9,novo contrato,624.5,0.2,0.03,18,1.5
+6041,424,banco bradesco,88.25,120,120,renegociação,624.5,0.2,0.03,18,1.5
+6041,424,banco bradesco,444.85,120,113,renegociação,624.5,0.2,0.03,18,1.5
+6071,424,banco bradesco,245.71,120,118,novo contrato,1143.05,295.35,25.84,0,0.0
+6071,424,banco bradesco,601.99,60,53,novo contrato,1143.05,295.35,25.84,0,0.0
+6151,424,banco bradesco,696.4,48,20,novo contrato,1141.14,444.74,38.97,0,0.0
+6161,424,banco bradesco,129.47,120,119,renegociação,1141.14,0.83,0.07,20,2.0
+6161,424,banco bradesco,494.12,120,113,renegociação,1141.14,0.83,0.07,20,2.0
+6161,427,caixa econômica federal,18.31,144,123,novo contrato,1141.14,0.83,0.07,20,2.0
+6161,427,caixa econômica federal,39.41,144,109,novo contrato,1141.14,0.83,0.07,20,2.0
+6161,427,caixa econômica federal,459.0,144,110,renegociação,1141.14,0.83,0.07,20,2.0
+6171,424,banco bradesco,191.93,48,35,novo contrato,1141.14,949.21,83.18,0,0.0
+6201,424,banco bradesco,74.84,120,108,novo contrato,1233.68,1.54,0.12,10,1.4
+6201,424,banco bradesco,1157.3,120,119,renegociação,1233.68,1.54,0.12,10,1.4
+6231,424,banco bradesco,491.67,120,120,renegociação,1141.14,0.38,0.03,16,1.125
+6231,424,banco bradesco,649.09,120,119,renegociação,1141.14,0.38,0.03,16,1.125
+6251,424,banco bradesco,1149.97,120,119,renegociação,1151.1,1.13,0.1,8,1.25
+6271,424,banco bradesco,57.74,120,107,novo contrato,1161.05,1.82,0.16,20,1.6
+6271,424,banco bradesco,89.83,120,103,novo contrato,1161.05,1.82,0.16,20,1.6
+6271,424,banco bradesco,447.7,120,120,renegociação,1161.05,1.82,0.16,20,1.6
+6271,424,banco bradesco,563.96,120,104,renegociação,1161.05,1.82,0.16,20,1.6
+6291,424,banco bradesco,185.37,48,38,novo contrato,1151.1,965.73,83.9,0,0.0
+6301,424,banco bradesco,489.64,120,104,renegociação,1141.14,99.48,8.72,2,2.0
+6301,427,caixa econômica federal,552.02,144,114,novo contrato,1141.14,99.48,8.72,2,2.0
+6331,424,banco bradesco,47.11,72,58,novo contrato,1151.1,691.43,60.07,2,2.0
+6331,424,banco bradesco,412.56,96,86,renegociação,1151.1,691.43,60.07,2,2.0
+6341,404,banco do brasil,289.47,72,17,novo contrato,1141.14,137.81,12.08,2,6.0
+6341,424,banco bradesco,713.86,60,40,renegociação,1141.14,137.81,12.08,2,6.0
+6351,424,banco bradesco,635.03,96,95,renegociação,1564.32,929.29,59.41,1,2.0
+6401,427,caixa econômica federal,207.27,144,134,renegociação,1161.05,70.36,6.06,9,1.6666666666666667
+6401,427,caixa econômica federal,300.45,144,134,renegociação,1161.05,70.36,6.06,9,1.6666666666666667
+6401,427,caixa econômica federal,582.97,144,111,renegociação,1161.05,70.36,6.06,9,1.6666666666666667
+6421,424,banco bradesco,242.13,20,12,renegociação,1151.1,908.97,78.97,1,5.0
+6441,424,banco bradesco,568.4,120,114,renegociação,1141.14,0.72,0.06,12,1.5
+6441,424,banco bradesco,572.02,120,119,renegociação,1141.14,0.72,0.06,12,1.5
+6461,424,banco bradesco,45.57,120,100,novo contrato,1141.14,0.15,0.01,18,1.2222222222222223
+6461,424,banco bradesco,1095.42,120,119,renegociação,1141.14,0.15,0.01,18,1.2222222222222223
+6491,424,banco bradesco,69.0,120,119,novo contrato,1151.1,10.54,0.92,20,1.4
+6491,424,banco bradesco,79.47,120,113,renegociação,1151.1,10.54,0.92,20,1.4
+6491,424,banco bradesco,388.09,120,113,renegociação,1151.1,10.54,0.92,20,1.4
+6491,427,caixa econômica federal,604.0,144,136,renegociação,1151.1,10.54,0.92,20,1.4
+6511,424,banco bradesco,1079.88,120,111,novo contrato,1151.1,71.22,6.19,0,0.0
+6531,424,banco bradesco,46.28,120,119,novo contrato,1141.14,24.5,2.15,15,1.6
+6531,424,banco bradesco,337.04,120,112,renegociação,1141.14,24.5,2.15,15,1.6
+6531,424,banco bradesco,733.32,120,112,renegociação,1141.14,24.5,2.15,15,1.6
+6551,427,caixa econômica federal,1015.16,144,122,novo contrato,1174.09,158.93,13.54,1,4.0
+6561,427,caixa econômica federal,499.0,119,85,renegociação,1161.05,662.05,57.02,1,4.0
+6601,424,banco bradesco,137.57,84,56,novo contrato,1161.73,583.2,50.2,2,3.0
+6601,424,banco bradesco,440.96,36,28,renegociação,1161.73,583.2,50.2,2,3.0
+6621,424,banco bradesco,119.44,120,87,novo contrato,1141.14,0.0,0.0,5,4.0
+6621,424,banco bradesco,129.98,120,95,novo contrato,1141.14,0.0,0.0,5,4.0
+6621,424,banco bradesco,153.33,100,100,novo contrato,1141.14,0.0,0.0,5,4.0
+6621,424,banco bradesco,273.25,120,94,novo contrato,1141.14,0.0,0.0,5,4.0
+6621,424,banco bradesco,465.14,120,87,renegociação,1141.14,0.0,0.0,5,4.0
+6651,424,banco bradesco,76.85,120,108,novo contrato,1161.05,70.99,6.11,10,2.2
+6651,424,banco bradesco,1013.21,120,110,renegociação,1161.05,70.99,6.11,10,2.2
+66614,424,banco bradesco,421.51,50,38,novo contrato,,,,0,0.0
+6701,404,banco do brasil,83.47,72,71,novo contrato,2313.39,72.78,3.15,8,1.5
+6701,424,banco bradesco,88.84,120,109,novo contrato,2313.39,72.78,3.15,8,1.5
+6701,424,banco bradesco,140.86,120,111,novo contrato,2313.39,72.78,3.15,8,1.5
+6701,424,banco bradesco,1927.44,120,110,renegociação,2313.39,72.78,3.15,8,1.5
+6791,424,banco bradesco,107.33,25,18,novo contrato,525.45,37.32,7.1,4,2.0
+6791,424,banco bradesco,380.8,48,36,renegociação,525.45,37.32,7.1,4,2.0
+6811,424,banco bradesco,1831.74,120,110,novo contrato,2512.95,681.21,27.11,0,0.0
+6821,424,banco bradesco,546.34,120,95,novo contrato,2242.18,1013.17,45.19,2,2.0
+6821,424,banco bradesco,682.67,120,108,renegociação,2242.18,1013.17,45.19,2,2.0
+6841,424,banco bradesco,53.05,120,109,novo contrato,857.12,38.12,4.45,12,1.75
+6841,424,banco bradesco,115.57,120,95,novo contrato,857.12,38.12,4.45,12,1.75
+6841,424,banco bradesco,650.38,120,103,renegociação,857.12,38.12,4.45,12,1.75
+6861,424,banco bradesco,180.0,60,16,novo contrato,585.12,405.12,69.24,0,0.0
+6921,424,banco bradesco,2087.9,120,113,renegociação,2317.08,229.18,9.89,2,2.0
+6961,424,banco bradesco,656.65,96,16,novo contrato,2337.6,1680.95,71.91,0,0.0
+6981,404,banco do brasil,1665.46,72,3,novo contrato,2635.49,970.03,36.81,0,0.0
+6991,404,banco do brasil,1301.26,72,10,novo contrato,2242.18,940.92,41.96,0,0.0
+7001,424,banco bradesco,1986.75,120,108,renegociação,2242.18,255.43,11.39,4,1.5
+7021,424,banco bradesco,175.0,72,23,novo contrato,2242.18,170.19,7.59,2,5.0
+7021,424,banco bradesco,1896.99,120,111,renegociação,2242.18,170.19,7.59,2,5.0
+7031,424,banco bradesco,1091.23,120,101,renegociação,1808.23,717.0,39.65,1,3.0
+7041,424,banco bradesco,144.48,120,112,novo contrato,2260.43,200.11,8.85,12,2.1666666666666665
+7041,424,banco bradesco,1915.84,120,115,renegociação,2260.43,200.11,8.85,12,2.1666666666666665
+7051,424,banco bradesco,229.16,70,70,renegociação,1547.88,812.76,52.51,10,1.0
+7051,424,banco bradesco,505.96,72,71,renegociação,1547.88,812.76,52.51,10,1.0
+7061,424,banco bradesco,156.15,120,120,novo contrato,2278.67,1.62,0.07,2,3.0
+7061,424,banco bradesco,2120.9,120,118,novo contrato,2278.67,1.62,0.07,2,3.0
+7071,424,banco bradesco,293.48,120,100,novo contrato,2052.6,263.31,12.83,0,0.0
+7071,424,banco bradesco,1495.81,74,54,novo contrato,2052.6,263.31,12.83,0,0.0
+7081,424,banco bradesco,1357.85,94,60,renegociação,2260.43,902.58,39.93,1,1.0
+7101,424,banco bradesco,82.96,120,108,novo contrato,2197.83,-233.36,0.0,12,1.3333333333333333
+7101,424,banco bradesco,134.1,120,110,novo contrato,2197.83,-233.36,0.0,12,1.3333333333333333
+7101,424,banco bradesco,165.22,120,101,novo contrato,2197.83,-233.36,0.0,12,1.3333333333333333
+7101,424,banco bradesco,2048.91,120,104,renegociação,2197.83,-233.36,0.0,12,1.3333333333333333
+7121,424,banco bradesco,597.82,60,38,novo contrato,2244.67,1646.85,73.37,0,0.0
+7141,424,banco bradesco,127.23,120,119,renegociação,913.67,164.33,17.99,6,1.3333333333333333
+7141,424,banco bradesco,622.11,120,119,renegociação,913.67,164.33,17.99,6,1.3333333333333333
+7151,424,banco bradesco,696.67,120,120,renegociação,945.81,249.14,26.34,1,1.0
+7161,427,caixa econômica federal,123.0,144,125,novo contrato,670.2,-400.8,0.0,3,6.0
+7161,427,caixa econômica federal,300.0,144,124,novo contrato,670.2,-400.8,0.0,3,6.0
+7161,427,caixa econômica federal,648.0,144,136,renegociação,670.2,-400.8,0.0,3,6.0
+7181,424,banco bradesco,125.35,120,99,novo contrato,548.3,-103.45,0.0,6,2.0
+7181,424,banco bradesco,187.6,120,100,renegociação,548.3,-103.45,0.0,6,2.0
+7181,424,banco bradesco,338.8,120,88,renegociação,548.3,-103.45,0.0,6,2.0
+7201,424,banco bradesco,455.73,120,114,novo contrato,708.12,37.79,5.34,2,4.0
+7201,427,caixa econômica federal,214.6,90,56,renegociação,708.12,37.79,5.34,2,4.0
+7221,404,banco do brasil,857.67,48,14,novo contrato,2388.74,1531.07,64.1,0,0.0
+7231,424,banco bradesco,226.93,96,43,novo contrato,299.53,72.6,24.24,0,0.0
+7281,424,banco bradesco,40.62,120,108,novo contrato,639.68,0.1,0.02,4,2.0
+7281,424,banco bradesco,44.56,120,120,novo contrato,639.68,0.1,0.02,4,2.0
+7281,424,banco bradesco,51.19,120,100,novo contrato,639.68,0.1,0.02,4,2.0
+7281,424,banco bradesco,503.21,120,87,renegociação,639.68,0.1,0.02,4,2.0
+7361,424,banco bradesco,22.73,120,108,novo contrato,625.65,0.85,0.14,4,1.5
+7361,424,banco bradesco,602.07,120,119,renegociação,625.65,0.85,0.14,4,1.5
+7371,424,banco bradesco,1985.36,120,117,renegociação,2154.18,168.82,7.84,1,3.0
+7391,404,banco do brasil,2087.88,72,69,novo contrato,2260.43,172.55,7.63,0,0.0
+7431,424,banco bradesco,253.32,120,112,renegociação,708.12,38.74,5.47,8,1.5
+7431,424,banco bradesco,416.06,120,112,renegociação,708.12,38.74,5.47,8,1.5
+74391,424,banco bradesco,32.44,120,113,novo contrato,456.92,0.22,0.05,9,1.6666666666666667
+74391,424,banco bradesco,96.19,120,119,renegociação,456.92,0.22,0.05,9,1.6666666666666667
+74391,424,banco bradesco,328.07,120,113,renegociação,456.92,0.22,0.05,9,1.6666666666666667
+7441,424,banco bradesco,24.88,120,86,renegociação,898.3,-79.96,0.0,56,2.4285714285714284
+7441,424,banco bradesco,28.26,120,95,novo contrato,898.3,-79.96,0.0,56,2.4285714285714284
+7441,424,banco bradesco,35.79,120,100,novo contrato,898.3,-79.96,0.0,56,2.4285714285714284
+7441,424,banco bradesco,130.29,120,86,novo contrato,898.3,-79.96,0.0,56,2.4285714285714284
+7441,424,banco bradesco,132.38,120,112,novo contrato,898.3,-79.96,0.0,56,2.4285714285714284
+7441,427,caixa econômica federal,121.82,144,134,renegociação,898.3,-79.96,0.0,56,2.4285714285714284
+7441,427,caixa econômica federal,218.13,144,125,renegociação,898.3,-79.96,0.0,56,2.4285714285714284
+7441,427,caixa econômica federal,286.71,144,125,renegociação,898.3,-79.96,0.0,56,2.4285714285714284
+7521,404,banco do brasil,923.57,70,35,novo contrato,2260.43,-534.52,0.0,6,3.0
+7521,424,banco bradesco,470.3,120,87,renegociação,2260.43,-534.52,0.0,6,3.0
+7521,424,banco bradesco,1401.08,120,87,renegociação,2260.43,-534.52,0.0,6,3.0
+7541,424,banco bradesco,298.49,120,120,renegociação,670.2,0.54,0.08,18,2.0
+7541,427,caixa econômica federal,57.48,93,61,renegociação,670.2,0.54,0.08,18,2.0
+7541,427,caixa econômica federal,313.69,81,49,renegociação,670.2,0.54,0.08,18,2.0
+7561,424,banco bradesco,64.88,120,109,novo contrato,606.5,1.1,0.18,6,2.5
+7561,424,banco bradesco,243.06,120,120,novo contrato,606.5,1.1,0.18,6,2.5
+7561,424,banco bradesco,297.46,120,120,renegociação,606.5,1.1,0.18,6,2.5
+7571,424,banco bradesco,23.56,96,52,novo contrato,720.43,102.75,14.26,2,3.0
+7571,424,banco bradesco,594.12,120,109,renegociação,720.43,102.75,14.26,2,3.0
+7581,424,banco bradesco,2219.33,60,59,novo contrato,2369.05,149.72,6.32,0,0.0
+7631,424,banco bradesco,301.64,24,12,novo contrato,2242.43,1524.48,67.98,2,5.0
+7631,424,banco bradesco,416.31,24,24,novo contrato,2242.43,1524.48,67.98,2,5.0
+7661,424,banco bradesco,1493.22,120,111,renegociação,1663.12,169.9,10.22,5,1.4
+7671,424,banco bradesco,1380.8,66,63,renegociação,2242.18,861.38,38.42,2,2.0
+76763,424,banco bradesco,150.0,42,17,novo contrato,,,,0,0.0
+76763,424,banco bradesco,344.85,45,17,novo contrato,,,,0,0.0
+7681,424,banco bradesco,463.34,96,45,novo contrato,548.3,84.96,15.5,0,0.0
+7791,404,banco do brasil,183.02,72,31,novo contrato,533.12,152.5,28.61,0,0.0
+7791,404,banco do brasil,197.6,46,46,novo contrato,533.12,152.5,28.61,0,0.0
+7801,424,banco bradesco,33.39,120,108,novo contrato,548.3,0.01,0.0,15,1.2
+7801,424,banco bradesco,38.38,120,120,novo contrato,548.3,0.01,0.0,15,1.2
+7801,424,banco bradesco,476.52,120,114,renegociação,548.3,0.01,0.0,15,1.2
+7811,424,banco bradesco,115.34,96,53,novo contrato,537.87,157.49,29.28,0,0.0
+7811,424,banco bradesco,265.04,84,32,novo contrato,537.87,157.49,29.28,0,0.0
+7821,424,banco bradesco,464.39,120,100,novo contrato,555.87,91.48,16.46,0,0.0
+7882,424,banco bradesco,16.97,120,99,novo contrato,525.45,1.17,0.22,12,1.5
+7882,424,banco bradesco,456.89,120,119,renegociação,525.45,1.17,0.22,12,1.5
+7882,427,caixa econômica federal,50.42,119,85,renegociação,525.45,1.17,0.22,12,1.5
+7921,404,banco do brasil,220.11,72,21,novo contrato,1359.42,181.99,13.39,0,0.0
+7921,424,banco bradesco,224.29,120,116,novo contrato,1359.42,181.99,13.39,0,0.0
+7921,424,banco bradesco,287.03,120,112,novo contrato,1359.42,181.99,13.39,0,0.0
+7921,424,banco bradesco,446.0,96,37,novo contrato,1359.42,181.99,13.39,0,0.0
+7931,424,banco bradesco,392.47,96,48,novo contrato,2186.25,1095.52,50.11,0,0.0
+7931,424,banco bradesco,698.26,60,35,novo contrato,2186.25,1095.52,50.11,0,0.0
+8031,424,banco bradesco,221.76,24,22,novo contrato,1151.1,318.84,27.7,0,0.0
+8031,424,banco bradesco,249.06,36,22,novo contrato,1151.1,318.84,27.7,0,0.0
+8031,424,banco bradesco,361.44,96,51,novo contrato,1151.1,318.84,27.7,0,0.0
+8051,404,banco do brasil,87.52,72,20,novo contrato,1141.14,270.03,23.66,9,1.6666666666666667
+8051,424,banco bradesco,190.95,120,101,novo contrato,1141.14,270.03,23.66,9,1.6666666666666667
+8051,424,banco bradesco,592.64,120,100,renegociação,1141.14,270.03,23.66,9,1.6666666666666667
+8061,424,banco bradesco,163.35,120,119,renegociação,1182.13,0.52,0.04,18,2.3333333333333335
+8061,424,banco bradesco,538.06,120,113,renegociação,1182.13,0.52,0.04,18,2.3333333333333335
+8061,427,caixa econômica federal,480.2,144,111,novo contrato,1182.13,0.52,0.04,18,2.3333333333333335
+8071,404,banco do brasil,704.37,78,56,novo contrato,1141.14,436.77,38.27,0,0.0
+8081,424,banco bradesco,503.58,92,73,novo contrato,0.0,-503.58,0.0,0,0.0
+8271,424,banco bradesco,63.48,120,108,novo contrato,1141.14,0.43,0.04,18,1.3333333333333333
+8271,424,banco bradesco,355.2,120,112,renegociação,1141.14,0.43,0.04,18,1.3333333333333333
+8271,424,banco bradesco,722.03,120,119,renegociação,1141.14,0.43,0.04,18,1.3333333333333333
+8281,404,banco do brasil,244.3,72,21,novo contrato,1151.1,705.57,61.3,2,5.0
+8281,424,banco bradesco,201.23,36,8,renegociação,1151.1,705.57,61.3,2,5.0
+8421,404,banco do brasil,239.38,72,17,novo contrato,525.45,286.07,54.44,0,0.0
+8431,404,banco do brasil,397.05,72,45,novo contrato,849.99,-1068.96,0.0,0,0.0
+8431,404,banco do brasil,494.46,72,35,novo contrato,849.99,-1068.96,0.0,0,0.0
+8431,424,banco bradesco,43.54,96,57,novo contrato,849.99,-1068.96,0.0,0,0.0
+8431,424,banco bradesco,83.82,95,65,novo contrato,849.99,-1068.96,0.0,0,0.0
+8431,424,banco bradesco,900.08,96,57,novo contrato,849.99,-1068.96,0.0,0,0.0
+8521,424,banco bradesco,73.1,120,118,novo contrato,1023.19,0.0,0.0,15,2.0
+8521,424,banco bradesco,76.42,72,72,novo contrato,1023.19,0.0,0.0,15,2.0
+8521,424,banco bradesco,873.67,96,95,renegociação,1023.19,0.0,0.0,15,2.0
+8531,424,banco bradesco,243.87,120,112,novo contrato,1410.38,-198.08,0.0,3,2.0
+8531,424,banco bradesco,272.2,120,95,novo contrato,1410.38,-198.08,0.0,3,2.0
+8531,424,banco bradesco,1092.39,120,86,renegociação,1410.38,-198.08,0.0,3,2.0
+86218,424,banco bradesco,304.7,45,10,novo contrato,,,,0,0.0
+8794,424,banco bradesco,899.93,100,98,renegociação,1127.73,227.8,20.2,2,1.0
+8871,424,banco bradesco,268.13,120,111,renegociação,2607.04,144.66,5.55,12,1.25
+8871,424,banco bradesco,732.09,120,112,renegociação,2607.04,144.66,5.55,12,1.25
+8871,424,banco bradesco,1462.16,120,112,renegociação,2607.04,144.66,5.55,12,1.25
+8891,404,banco do brasil,299.74,54,11,novo contrato,2416.04,847.01,35.06,0,0.0
+8891,404,banco do brasil,1269.29,72,16,novo contrato,2416.04,847.01,35.06,0,0.0
+8901,424,banco bradesco,409.73,24,5,novo contrato,2040.12,1630.39,79.92,0,0.0
+8911,404,banco do brasil,1181.47,72,29,novo contrato,2136.29,395.5,18.51,2,4.0
+8911,424,banco bradesco,559.32,120,119,renegociação,2136.29,395.5,18.51,2,4.0
+8921,424,banco bradesco,19.3,120,111,novo contrato,1725.92,1.18,0.07,48,1.75
+8921,424,banco bradesco,147.48,120,120,renegociação,1725.92,1.18,0.07,48,1.75
+8921,424,banco bradesco,345.16,120,120,renegociação,1725.92,1.18,0.07,48,1.75
+8921,427,caixa econômica federal,40.75,144,109,novo contrato,1725.92,1.18,0.07,48,1.75
+8921,427,caixa econômica federal,169.0,144,135,renegociação,1725.92,1.18,0.07,48,1.75
+8921,427,caixa econômica federal,1003.05,144,135,renegociação,1725.92,1.18,0.07,48,1.75
+89743,424,banco bradesco,200.0,38,13,novo contrato,,,,0,0.0
+89743,424,banco bradesco,260.3,44,11,novo contrato,,,,0,0.0
+9011,424,banco bradesco,401.92,12,5,novo contrato,2353.29,1951.37,82.92,0,0.0
+9021,424,banco bradesco,1375.66,120,100,novo contrato,1804.94,429.28,23.78,0,0.0
+9022,424,banco bradesco,1283.01,120,120,novo contrato,1295.24,12.23,0.94,0,0.0
+9041,404,banco do brasil,1838.01,72,72,novo contrato,1900.48,62.47,3.29,0,0.0
+9111,404,banco do brasil,949.08,72,41,renegociação,2254.55,1305.47,57.9,2,2.5
+9131,424,banco bradesco,122.22,120,92,novo contrato,2099.54,840.59,40.04,6,1.5
+9131,424,banco bradesco,292.2,120,96,novo contrato,2099.54,840.59,40.04,6,1.5
+9131,424,banco bradesco,844.53,120,86,renegociação,2099.54,840.59,40.04,6,1.5
+9151,424,banco bradesco,37.02,120,113,novo contrato,2050.59,0.13,0.01,28,1.4285714285714286
+9151,424,banco bradesco,278.4,120,120,renegociação,2050.59,0.13,0.01,28,1.4285714285714286
+9151,424,banco bradesco,556.59,120,120,renegociação,2050.59,0.13,0.01,28,1.4285714285714286
+9151,424,banco bradesco,1178.45,120,120,renegociação,2050.59,0.13,0.01,28,1.4285714285714286
+9161,424,banco bradesco,39.28,120,108,novo contrato,647.35,0.69,0.11,8,1.5
+9161,424,banco bradesco,45.54,120,120,novo contrato,647.35,0.69,0.11,8,1.5
+9161,424,banco bradesco,64.61,120,103,novo contrato,647.35,0.69,0.11,8,1.5
+9161,424,banco bradesco,497.23,120,93,renegociação,647.35,0.69,0.11,8,1.5
+9171,424,banco bradesco,550.98,120,88,renegociação,700.54,149.56,21.35,1,3.0
+9181,424,banco bradesco,726.46,120,88,renegociação,902.05,175.59,19.47,2,2.0
+9211,404,banco do brasil,122.84,72,16,novo contrato,960.92,253.76,26.41,0,0.0
+9211,404,banco do brasil,584.32,72,6,novo contrato,960.92,253.76,26.41,0,0.0
+9251,424,banco bradesco,364.26,84,16,novo contrato,616.84,252.58,40.95,0,0.0
+9261,404,banco do brasil,400.35,48,1,novo contrato,616.84,216.49,35.1,0,0.0
+9341,424,banco bradesco,100.7,8,2,novo contrato,492.25,113.46,23.05,0,0.0
+9341,424,banco bradesco,278.09,4,2,novo contrato,492.25,113.46,23.05,0,0.0
+9391,424,banco bradesco,224.62,36,18,novo contrato,2117.78,627.55,29.63,2,2.0
+9391,424,banco bradesco,1265.61,120,116,renegociação,2117.78,627.55,29.63,2,2.0
+9401,424,banco bradesco,146.3,96,43,novo contrato,553.39,407.09,73.56,0,0.0
+9541,424,banco bradesco,184.38,6,2,novo contrato,875.46,325.15,37.14,0,0.0
+9541,424,banco bradesco,365.93,60,21,novo contrato,875.46,325.15,37.14,0,0.0
+9581,424,banco bradesco,36.18,120,101,novo contrato,548.2,-126.63,0.0,9,1.6666666666666667
+9581,424,banco bradesco,50.02,120,109,novo contrato,548.2,-126.63,0.0,9,1.6666666666666667
+9581,424,banco bradesco,588.63,120,110,renegociação,548.2,-126.63,0.0,9,1.6666666666666667
+9591,424,banco bradesco,33.82,120,100,novo contrato,510.27,87.7,17.19,2,2.0
+9591,424,banco bradesco,388.75,120,93,renegociação,510.27,87.7,17.19,2,2.0
+9621,424,banco bradesco,50.02,120,109,novo contrato,650.27,-32.63,0.0,12,1.25
+9621,424,banco bradesco,99.19,120,116,renegociação,650.27,-32.63,0.0,12,1.25
+9621,424,banco bradesco,533.69,120,112,renegociação,650.27,-32.63,0.0,12,1.25
+9641,424,banco bradesco,49.56,120,86,renegociação,616.84,223.73,36.27,12,2.25
+9641,424,banco bradesco,104.1,80,71,novo contrato,616.84,223.73,36.27,12,2.25
+9641,424,banco bradesco,239.45,120,109,renegociação,616.84,223.73,36.27,12,2.25
+9691,424,banco bradesco,196.31,120,114,novo contrato,0.0,-734.16,0.0,2,2.0
+9691,424,banco bradesco,537.85,120,107,renegociação,0.0,-734.16,0.0,2,2.0
+9761,404,banco do brasil,571.21,48,11,novo contrato,2099.54,1528.33,72.79,0,0.0
+9861,424,banco bradesco,31.04,120,113,novo contrato,,,,2,2.0
+9861,424,banco bradesco,972.24,120,110,renegociação,,,,2,2.0
